@@ -411,6 +411,10 @@ li {
     transform: translateY(-5px);
 }
 
+.footer{
+    background-color: #f2efff;
+}
+
 .footer-wrapper {
     width: 100%;
     margin: 80px auto;
